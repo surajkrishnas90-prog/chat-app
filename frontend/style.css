@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+#messages {
+  height: 300px;
+  overflow-y: scroll;
+  border: 1px solid gray;
+  margin: 10px;
+  padding: 10px;
+}
